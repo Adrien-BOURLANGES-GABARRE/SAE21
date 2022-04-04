@@ -12,6 +12,6 @@ Adressage du réseaux+début de la programmation du cisco.
 10.40.21.248/29
 10.40.21.249-10.40.21.254
 10.40.21.255
-
+04/04/2022 reorganisations du travaille, distributions des tache a faire, vue que gns3 ne fonctionne pas sur windows 11, installation d'une vm
 
 
