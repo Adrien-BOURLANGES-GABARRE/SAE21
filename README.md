@@ -14,4 +14,6 @@ Adressage du réseaux+début de la programmation du cisco.
 10.40.21.255
 04/04/2022 reorganisations du travaille, distributions des tache a faire, vue que gns3 ne fonctionne pas sur windows 11, installation d'une vm
 
+11/04/2022  09 :34
+Sur gns3 constructions du réseau, mise en place des adresse ip et début de la mise en places du serveur DHCP, configurations du switch, toujours un problèmes sur min pc portable, je n’arrives pas a importé le dossier de sauvegarde sur gns3.
 
