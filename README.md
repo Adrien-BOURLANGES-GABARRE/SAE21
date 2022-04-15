@@ -17,3 +17,8 @@ Adressage du réseaux+début de la programmation du cisco.
 11/04/2022  09 :34
 Sur gns3 constructions du réseau, mise en place des adresse ip et début de la mise en places du serveur DHCP, configurations du switch, toujours un problèmes sur min pc portable, je n’arrives pas a importé le dossier de sauvegarde sur gns3.
 
+15/04/2022        11:52
+Mise en place des vlan sur gns3.
+
+
+
