@@ -30,8 +30,10 @@ présence d’eau dans les sales, je fais le tour de mon groupe pour expliquer l
 
 22/04/2022 
 On a eu un problème avec le routeur qui a était résolu, on a connecté les deux parties(virtuel et physique) 
+Nous avons testé les différents équipements et prix des photos où nous pouvons voir les différents équipements, après plusieurs tentatives nous avons réussi à faire fonctionné les réseaux demander avec les équipements.
 
-Dans un premier j’ai décidé d’utiliser le logiciel gns3 car cela me permet d’installer tous les types d’appareils et que nous l’utilisons dans une ressource (R201) 
+
+j’ai décidé d’utiliser le logiciel gns3 car cela me permet d’installer tous les types d’appareils et que nous l’utilisons dans une ressource (R201) 
 nous avons décidé qu’elle adresse IP nous allons utiliser, nous avons donc choisi pour la partie virtuelle l’adresse 192.168.0.0 avec le masque de sous réseaux 255.255.0.0 mais avec les vlan cela fait : 192.168.vlan.0, donc un masque de 255.255.255.0 ce qui nous permet d’avoir 253 machines dans chacun vlan.
 
 # Il respecte les fondamentaux de la sécurité informatique. 
