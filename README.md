@@ -1,5 +1,5 @@
 ## SAE21
-github de depo perso de la sae21
+github de depo perso de la sae21.
 
 Dans un premier temps j’ai fait un résumé de chaque jour, ou j’ai détaillé rapidement ce que nous avons fait, j’ai pris l’habitude d’utiliser l’application Dictaphone de mon téléphone pour dire les différentes étapes de mon travail, je vais donc dans une deuxième partie expliquer pourquoi dans cette SAE j’ai progressé dans les composantes essentielles. 
 
