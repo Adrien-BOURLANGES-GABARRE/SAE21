@@ -41,6 +41,10 @@ Comme tout le monde nous avons eu beaucoup de problèmes, au début j’ai essay
 # il respecte les règles métier. 
 Là il y a beaucoup d'exemple d’abord pour l’adresse IP des routeurs je lui donne la dernière adresse disponible, j’ai fait apparaître le numéro du vlan dans l’adresse IP.
 
+# Il assure une veille technologique.
+J’essaye de me tenir au courant de l’actualité technologique, que ce soit pour des projets (dans le cadre du BUT ou des projets personnels), à titre de culture technique ou pour communiquer avec d’autres personnes du milieu informatique (pour pouvoir suivre les discussions et pas que quelqu’un m’explique de quoi ils parlent).
+Pour me tenir au courant de l’actualité informatique et scientifique j’ai plusieurs méthode, je suis des chaînes YouTube de professionnels et de fabricant pour me tenir au courant des nouveautés, je regarde des sites et magazines spécialisés et il m’arrive parfois de me perdre sur internet car je découvre (souvent par hasards) une technologie que je ne comprends pas mais qui m’intéresse. Se qui me permet de donc d’avoir des connaissances sur les autres composantes essentielles.
+
 
 Dans un premier temps j’ai programmer le router.
 J’ai donc allumé l’interface f0/0
